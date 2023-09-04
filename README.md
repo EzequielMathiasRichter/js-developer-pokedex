@@ -1,1 +1,2 @@
-# Trilha JS Developer - Pokedex
+## Resolução projeto pokedex
+# Adicionando habilidades
