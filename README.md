@@ -1,2 +1,2 @@
-## Resolução projeto pokedex
-# Adicionando habilidades
+# Resolução projeto pokedex
+## Adicionando habilidades
